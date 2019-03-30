@@ -16,7 +16,7 @@
    <RowConstraints />
 </rowConstraints>
 <children>
-   <TextField text="Hello World" GridPane.rowIndex="1" />
+   <TextField text="Fokk you" GridPane.rowIndex="1" />
    <Button fx:id="searchButton" mnemonicParsing="false" onAction="#searchHandler" text="Search" GridPane.columnIndex="1" GridPane.rowIndex="1" />
 </children>
 </GridPane>
