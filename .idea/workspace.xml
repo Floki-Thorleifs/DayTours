@@ -59,7 +59,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -71,8 +71,6 @@
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-=======
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,7 +81,6 @@
           <provider editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
->>>>>>> Floki
     </leaf>
   </component>
   <component name="FindManager">
@@ -256,16 +253,12 @@
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1553695452853" duration="296000" />
       <workItem from="1553958622748" duration="613000" />
-      <workItem from="1553960468422" duration="2231000" />
+      <workItem from="1553960468422" duration="1689000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="4442000" />
-=======
     <option name="totallyTimeSpent" value="3931000" />
->>>>>>> Floki
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -352,8 +345,6 @@
     <entry file="file://$PROJECT_DIR$/HelloWorld.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-<<<<<<< HEAD
-=======
     <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -375,7 +366,6 @@
         </state>
       </provider>
     </entry>
->>>>>>> Floki
     <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -384,29 +374,5 @@
       </provider>
       <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-=======
->>>>>>> Floki
   </component>
 </project>
